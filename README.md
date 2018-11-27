@@ -56,3 +56,5 @@ p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
 </body>
 </html>
 ```
+## 4. Como se puede incluir javascript en HTML
+Con el elemento SPAN
