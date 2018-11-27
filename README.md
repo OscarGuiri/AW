@@ -58,3 +58,16 @@ p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
 ```
 ## 4. Como se puede incluir javascript en HTML
 Con el elemento SPAN
+### EJ: 
+```html
+<span onclick="alert('hola mundo!');">Clic aqu&iacute;</span>
+```
+## 5 ¿Que diferencia hay entre una clase y una ID
+El valor del atributo “id” de un elemento es único; es decir, no debería haber otro elemento con el mismo nombre de identificador (id) dentro de tu documento HTML. 
+El valor del atributo "Class" se puede utilizar cuando quieras
+## 6. código para hacer un enlace a otra página y que esta se abra en una nueva ventana
+```html
+ <a href="pagina.html" target="_blank">Título del enlace</a>.
+```
+## 7. ¿Qué son las pseudoclases?, pon ejemplos.
+
