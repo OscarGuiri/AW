@@ -1,3 +1,5 @@
+## Ejecicio de crear cajas con el elemento div
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,3 +33,4 @@
 
 </body>
 </html>
+```
